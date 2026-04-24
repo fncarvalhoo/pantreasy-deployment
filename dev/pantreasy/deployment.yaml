@@ -24,7 +24,7 @@ spec:
     spec:
       containers:
         - name: pantreasy
-          image: fncarvalhoo/pantreasy:v20
+          image: fncarvalhoo/pantreasy:v21
           imagePullPolicy: IfNotPresent
 
           ports:
